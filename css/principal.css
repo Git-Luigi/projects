@@ -1,0 +1,13 @@
+
+
+.colorgra1{
+    background: rgb(110,238,250);
+background: linear-gradient(173deg, rgba(110,238,250,1) 0%, rgba(224,170,240,1) 54%, rgba(63,141,255,1) 92%);
+    border: none;
+}
+
+.gradientdiv{
+    background: rgb(110,238,250);
+    background: linear-gradient(173deg, rgba(110,238,250,1) 0%, rgba(224,170,240,1) 54%, rgba(63,141,255,1) 92%);
+    height: 300px;
+}
